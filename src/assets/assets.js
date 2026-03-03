@@ -57,7 +57,7 @@ import p_img52 from './p_img52.png'
 
 import logo from './logo.png'
 import hero_img from './hero_img.png'
-import model_my from './model_my.png'
+
 import cart_icon from './cart_icon.png'
 import bin_icon from './bin_icon.png'
 import dropdown_icon from './dropdown_icon.png'
@@ -71,31 +71,28 @@ import support_img from './support_img.png'
 import menu_icon from './menu_icon.png'
 import about_img from './about_img.png'
 import contact_img from './contact_img.png'
-import razorpay_logo from './razorpay_logo.png'
+
 import stripe_logo from './stripe_logo.png'
 import cross_icon from './cross_icon.png'
 import LUMINIQUE from './LUMINIQUE.png'
-import model_my2 from './model_my2.png'
-import model_my3 from './model_my3.jpg'
-import model_my4 from './model_my4.jpg'
-import model_my5 from './model_my5.jpg'
-import model_my6 from './model_my6.jpg'
-import model_my7 from './model_my7.jpg'
-import model_my8 from './model_my8.jpg'
+
+import brownBoyC from './brownBoyC.webp'
+import KidsC from './KidsC.webp'
+import upC from './upC.webp'
+import yellowC from'./yellowC.webp'
 
 
 
 export const assets = {
     logo,
     hero_img,
-    model_my,
-    model_my2,
-    model_my3,
-    model_my4,
-    model_my5,
-    model_my6,
-    model_my7,
-     model_my8,
+   
+    brownBoyC,
+    KidsC,
+    upC,
+    yellowC,
+   
+   
     cart_icon,
     dropdown_icon,
     exchange_icon,
@@ -109,7 +106,7 @@ export const assets = {
     menu_icon,
     about_img,
     contact_img,
-    razorpay_logo,
+    
     stripe_logo,
     LUMINIQUE,
     cross_icon

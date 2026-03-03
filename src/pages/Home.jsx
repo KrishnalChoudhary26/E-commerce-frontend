@@ -4,11 +4,12 @@ import LatestCollection from '../components/LatestCollection'
 import BestSeller from '../components/BestSeller'
 import OurPolicy from '../components/OurPolicy'
 import NewsletterBox from '../components/NewsletterBox'
-
+import HeroSlider from '../components/HeroSlider'
+import HeroVideo from '../components/HeroVideo'
 const Home = () => {
   return (
     <div>
-      <Hero />
+      <HeroSlider/>
       <LatestCollection/>
       <BestSeller/>
       <OurPolicy/>
